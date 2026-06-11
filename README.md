@@ -76,7 +76,7 @@ Slogan y diseño de la marca:
 
 </div>
 
-<a href="Proyecto final.html" class="volver">
+<a href="https://ramirezmedinanataliaguadalupe-star.github.io/proyecto-final-/" class="volver">
 Volver al inicio
 </a>
 
