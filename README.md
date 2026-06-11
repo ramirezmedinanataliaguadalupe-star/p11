@@ -71,7 +71,8 @@ background:#f48fb1;
     Instagram</a>
 
 
-Slogan y diseño de la marca: <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130200-e74e1ede-ce99-48d2-bf8b-7367cd71f57e.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T000933Z&X-Amz-Expires=300&X-Amz-Signature=5a024ff02683fe98f5e79aedc4e372a9241304d274588bbaa76d5fe11417c5a6&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+Slogan y diseño de la marca: 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130200-e74e1ede-ce99-48d2-bf8b-7367cd71f57e.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T000933Z&X-Amz-Expires=300&X-Amz-Signature=5a024ff02683fe98f5e79aedc4e372a9241304d274588bbaa76d5fe11417c5a6&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
 </div>
 
