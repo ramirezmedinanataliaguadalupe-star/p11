@@ -62,23 +62,17 @@ background:#f48fb1;
 <h2>Síguenos</h2>
 
 <a href="https://www.facebook.com/share/1CxQHVk714/" target="_blank">
-    Facebook
-</a>
+    Facebook </a>
+
 
 <br><br>
 
 <a href="https://www.instagram.com/zoteroyale?igsh=MW0zbHJmb2h3bmhibg==" target="_blank">
-    Instagram
-</a>
+    Instagram</a>
 
 
-Slogan y dise{o de la marca:
+Slogan y dise{o de la marca: <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130200-e74e1ede-ce99-48d2-bf8b-7367cd71f57e.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T000014Z&X-Amz-Expires=300&X-Amz-Signature=7ab0b124b5d30c919752bef8c1518ef17c85936508803ab558cebfcccdda44fc&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130200-e74e1ede-ce99-48d2-bf8b-7367cd71f57e.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T000014Z&X-Amz-Expires=300&X-Amz-Signature=7ab0b124b5d30c919752bef8c1518ef17c85936508803ab558cebfcccdda44fc&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
-
-
-  
-</a>
 
 
 </p>
